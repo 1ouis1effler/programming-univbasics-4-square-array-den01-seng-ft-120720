@@ -4,3 +4,4 @@ def square_array(array)
   end
   .take(array.length)
 end
+
